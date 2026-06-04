@@ -940,7 +940,7 @@ export const kanjiData = [
   },
   {
     "id": 135,
-    "kanji": "答",
+    "kanji": "質",
     "reading": "しつ",
     "meaning": "ask a question, quality",
     "isRadical": false
